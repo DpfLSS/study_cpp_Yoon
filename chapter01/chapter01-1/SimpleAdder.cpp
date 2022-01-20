@@ -3,14 +3,14 @@
 int main(void)
 {
 	double val1; 
-	std::cout << "Ã¹¹øÂ° ¼ýÀÚ ÀÔ·Â:";
+	std::cout << "ì²«ë²ˆì§¸ ìˆ«ìž ìž…ë ¥:";
 	std::cin >> val1;
 
 	double val2;
-	std::cout << "µÎ¹øÂ° ¼ýÀÚ ÀÔ·Â:";
+	std::cout << "ë‘ë²ˆì§¸ ìˆ«ìž ìž…ë ¥:";
 	std::cin >> val2;
 
 	double result = val1 + val2;
-	std::cout << "µ¡¼À °á°ú:" << result << std::endl;
+	std::cout << "ë§ì…ˆ ê²°ê³¼:" << result << std::endl;
 	return 0;
 }
