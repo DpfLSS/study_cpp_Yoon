@@ -11,6 +11,6 @@ int main(void)
 
 }
 /*
-std::cout´Â printf, std::cin´Â scanf ±â´É°ú ºñ½Á
-std::endl´Â ÁÙ¹Ù²Ş ±â´É
+std::coutëŠ” printf, std::cinëŠ” scanf ê¸°ëŠ¥ê³¼ ë¹„ìŠ·
+std::endlëŠ” ì¤„ë°”ê¿ˆ ê¸°ëŠ¥
 */
