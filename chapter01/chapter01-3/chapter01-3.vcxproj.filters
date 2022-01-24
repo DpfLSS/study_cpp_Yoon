@@ -24,5 +24,14 @@
     <ClCompile Include="..\chapter01-2\DefaultValue2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="DefaultValue3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="01-3-1번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="01-3-2번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

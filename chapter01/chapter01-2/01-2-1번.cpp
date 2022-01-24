@@ -26,7 +26,7 @@ void swap(double* dbl1, double* dbl2)
 
 /*
 여기서 난 각 swap 함수마다 변수를 다르게 설정했는데, 모두 동일하게 설정해도 무관하다.
-EX) void swap(double* ptr1, double* ptr2) void swap(int* dbl1, int* dbl2)
+EX) void swap(double* ptr1, double* ptr2) void swap(int* ptr1, int* ptr2)
 = 함수 안의 자료형이 다르다면 두 함수는 오버로딩이 가능함
 */
 
