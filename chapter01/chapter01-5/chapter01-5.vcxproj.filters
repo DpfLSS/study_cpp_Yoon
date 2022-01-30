@@ -36,6 +36,9 @@
     <ClCompile Include="01-4-1번_NameSp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="UsingDcl1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Question.h">
