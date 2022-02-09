@@ -9,7 +9,7 @@ int main(void)
 	cout << "True:" << true << endl;
 	cout << "False:" << false << endl;
 
-	while (true) //¹«ÇÑ·çÇÁ¸¦ ¸¸µé±âÀ§ÇØ º¸Åë 1»ç¿ë. cpp¿¡¼­´Â true ´ë½Å »ç¿ë °¡´É o
+	while (true) //ë¬´í•œë£¨í”„ë¥¼ ë§Œë“¤ê¸°ìœ„í•´ ë³´í†µ 1ì‚¬ìš©. cppì—ì„œëŠ” true ëŒ€ì‹  ì‚¬ìš© ê°€ëŠ¥ o
 	{
 		cout << i++ << ' ';
 		if (i > num)
@@ -21,6 +21,6 @@ int main(void)
 	cout << "sizeof 0:" << sizeof(0) << endl;
 	cout << "sizeof T:" << sizeof(true) << endl;
 	cout << "sizeof F:" << sizeof(false) << endl;
-	//µ¥ÀÌÅÍÀÇ Å©±â 1,0º¸´Ù true, false°¡ ´õ ÀÛÀ½
+	//ë°ì´í„°ì˜ í¬ê¸° 1,0ë³´ë‹¤ true, falseê°€ ë” ì‘ìŒ
 	return 0;
 }
